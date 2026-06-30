@@ -331,6 +331,8 @@
 
 ---
 
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Learned prompt compression for efficient LLM inference. ~5K-parameter policy cuts ~65% of prompt tokens with 100% oracle recall. ~60ms CPU, no GPU needed.
 ## Knowledge Distillation
 
 | Year | Title | Venue | Paper | Code |
@@ -580,6 +582,8 @@
 
 ---
 
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Learned prompt compression for efficient LLM inference. ~5K-parameter policy cuts ~65% of prompt tokens with 100% oracle recall. ~60ms CPU, no GPU needed.
 ## Early Exit
 
 | Year | Title | Venue | Paper | Code |
@@ -819,6 +823,8 @@
 
 ---
 
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Learned prompt compression for efficient LLM inference. ~5K-parameter policy cuts ~65% of prompt tokens with 100% oracle recall. ~60ms CPU, no GPU needed.
 ## Multimodal LLMs
 
 | Year | Title | Venue | Paper | Code |
