@@ -823,6 +823,7 @@
 
 | Year | Title | Venue | Paper | Code |
 | ---- | ----- | ----- | ----- | ---- |
+| 2026 | Semantic-Guided Slow-Fast Pruning of Visual Tokens for Vision-Language Models | ICASSP 2026 | [Link](https://ieeexplore.ieee.org/abstract/document/11460400) | N/A |
 | 2024 | Honeybee: Locality-enhanced Projector for Multimodal LLM | CVPR 2024 | [Link](https://arxiv.org/abs/2312.06742) | [Link](https://github.com/kakaobrain/honeybee) ![](https://img.shields.io/github/stars/kakaobrain/honeybee.svg?style=social) |
 | 2024 | MobileVLM: A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices | CVPR 2024 | [Link](https://arxiv.org/abs/2312.16886) | [Link](https://github.com/Meituan-AutoML/MobileVLM) ![](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social) |
 | 2024 | TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones | EMNLP 2024 | [Link](https://arxiv.org/abs/2312.16862) | [Link](https://github.com/DLYuanGod/TinyGPT-V) ![](https://img.shields.io/github/stars/DLYuanGod/TinyGPT-V.svg?style=social) |
