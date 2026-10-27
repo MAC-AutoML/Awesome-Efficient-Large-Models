@@ -152,7 +152,7 @@
 | 2024 | QBB: Quantization with Binary Bases for LLMs | NeurIPS 2024 | [Link](https://openreview.net/forum?id=Kw6MRGFx0R) | N/A |
 | 2024 | Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models | NeurIPS 2024 | [Link](https://papers.nips.cc/paper_files/paper/2024/hash/6fcc2190f456464160921e98393bf50e-Abstract-Conference.html) | N/A |
 | 2024 | VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models | EMNLP 2024 | [Link](https://aclanthology.org/2024.emnlp-main.467/) | [Link](https://github.com/paperwave/VPTQ) ![](https://img.shields.io/github/stars/paperwave/VPTQ.svg?style=social) |
-
+| 2026 | Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization | arXiv 2026 | [Link](https://arxiv.org/abs/2610.31309) | [Link](https://github.com/VILA-Lab/optic) ![](https://img.shields.io/github/stars/VILA-Lab/optic.svg?style=social) |
 
 ### VLM Quantization
 | Year | Title                                                                   | Venue   | Paper                                 | code                                                                                                                        |
